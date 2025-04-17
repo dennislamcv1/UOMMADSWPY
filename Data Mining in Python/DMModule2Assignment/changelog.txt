@@ -1,0 +1,13 @@
+Part 1
+
+CHANGELOG: Altered assignment solution code, gave pseudocode in guide.
+
+Part 2
+
+Changelog: added hint to exercise 2
+
+Changelog: Moved part 4 to the end of part 2. 
+
+Part 3
+
+Changelog: None

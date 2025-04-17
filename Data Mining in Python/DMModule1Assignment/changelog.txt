@@ -1,0 +1,3 @@
+Changelog: 
+
+Adjusted variable names. fidx, cidx -> col_index and row_index. xx is now unknown_language.
